@@ -79,3 +79,78 @@
 /****************************************/
 /****************** 4444 *****************/
 /****************************************/
+.box_4{
+    width:260px;
+    height: 260px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    z-index: 4;
+    background-color: #42EADDFF;
+    transition: 1.7s;
+}
+.box_4:hover{
+    background-color: #CDB599FF;
+    transform: rotate(-180deg);
+}
+/****************************************/
+/****************** 55555 *****************/
+/****************************************/
+.box_5{
+    width:240px;
+    height: 240px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    z-index: 5;
+    background-color: #000000FF;
+    transition: 1.6s;
+}
+.box_5:hover{
+    background-color: #FFFFFFFF;
+    transform: rotate(180deg);
+}
+/****************************************/
+/****************** 666666 *****************/
+/****************************************/
+
+.box_6{
+    width:220px;
+    height: 220px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    z-index: 6;
+    background-color:#00A4CCFF;
+    transition: 1.4s;
+}
+.box_6:hover{
+    background-color:#F95700FF;
+    transform: rotate(-180deg);
+}
+/****************************************/
+/****************** 7777777 *****************/
+/****************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
